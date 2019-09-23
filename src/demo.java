@@ -9,6 +9,7 @@ public class demo {
 		Scanner in = new Scanner(System.in);
 		
 		System.out.println("bom dia");
+System.out.println("boa tarde");		
 		
 
 	}
