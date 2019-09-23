@@ -8,7 +8,7 @@ public class demo {
 		Locale.setDefault(Locale.US);
 		Scanner in = new Scanner(System.in);
 		
-		System.out.println("somente para iniciar git hub");
+		System.out.println("bom dia");
 		
 
 	}
